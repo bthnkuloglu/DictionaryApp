@@ -59,5 +59,5 @@ Kelime Denizi is a dictionary application that contains the meanings, types, and
 
    # LIVE DEMO
 
-   ### 
+   ### https://kelimedenizi-bk.netlify.app/
 
